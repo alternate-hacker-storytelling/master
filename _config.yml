@@ -24,7 +24,7 @@ tags_path : /tags.html
 # Masthead title
 masthead_link: http://hackerstorytelling.com
 masthead_font_size: 75
-masthead_title: '{"Hacker Storytelling"}'
+masthead_title: '{"Alternate":"Hacker Storytelling"}'
 
 # Feature
 feature_title: API Design Providers Guide
