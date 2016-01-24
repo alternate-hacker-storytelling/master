@@ -22,7 +22,7 @@ categories_path : /categories.html
 tags_path : /tags.html
 
 # Masthead title
-masthead_link: http://hackerstorytelling.com
+masthead_link: http://alternate.hackerstorytelling.com
 masthead_font_size: 50
 masthead_title: '{"Alternate":"Hacker Storytelling"}'
 
